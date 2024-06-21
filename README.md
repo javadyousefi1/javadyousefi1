@@ -1,8 +1,8 @@
-<h1>Hey I am Javad , front-end developer</h1>
+<h1>Hey I am Javad , front-end developer 🙋‍♂️</h1>
 
 ###
 
-<img src="https://raw.githubusercontent.com/javadyousefi1/javadyousefi1/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 
