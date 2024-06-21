@@ -60,7 +60,3 @@
 
 ###
 
-
-<img src="https://raw.githubusercontent.com/javadyousefi1/javadyousefi1/output/snake.svg" alt="Snake animation" />
-
-###
